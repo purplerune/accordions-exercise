@@ -1,2 +1,0 @@
-# accordions-exercise
-accordions-exercise
